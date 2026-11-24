@@ -4,7 +4,7 @@
     "api/index.php": {
       "runtime": "vercel-php@0.7.4"
     },
-    "api/b3iqso.php": {
+    "api/10sb05m.php": {
       "runtime": "vercel-php@0.7.4"
     }
   },
@@ -17,8 +17,8 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "/api/b3iqso.php",
-      "dest": "/api/b3iqso.php"
+      "src": "/api/10sb05m.php",
+      "dest": "/api/10sb05m.php"
     },
     {
       "src": "/(.*)",
